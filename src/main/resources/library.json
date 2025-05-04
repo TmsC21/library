@@ -1,0 +1,66 @@
+{
+  "Library": {
+    "Book": [
+      {
+        "id": "1",
+        "Name": "Starec a more",
+        "Author": "Ernest Hemingway",
+        "Borrowed": {
+          "FirstName": "Peter",
+          "LastName": "Prvý",
+          "From": "25.3.2016"
+        }
+      },
+      {
+        "id": "2",
+        "Name": "Rómeo a Júlia",
+        "Author": "William Shakespeare",
+        "Borrowed": {
+          "FirstName": "Lukáš",
+          "LastName": "Druhý",
+          "From": "16.6.2018"
+        }
+      },
+      {
+        "id": "3",
+        "Name": "Krvavé sonety",
+        "Author": "Pavol Országh Hviezdoslav",
+        "Borrowed": {
+          "FirstName": "Matej",
+          "LastName": "Tretí",
+          "From": "1.2.2017"
+        }
+      },
+      {
+        "id": "4",
+        "Name": "Hájniková žena",
+        "Author": "Pavol Országh Hviezdoslav",
+        "Borrowed": {
+          "FirstName": "",
+          "LastName": "",
+          "From": ""
+        }
+      },
+      {
+        "id": "5",
+        "Name": "Hamlet",
+        "Author": "William Shakespeare",
+        "Borrowed": {
+          "FirstName": "Jozef",
+          "LastName": "Štvrtý",
+          "From": "25.10.2009"
+        }
+      },
+      {
+        "id": "6",
+        "Name": "Živý bič",
+        "Author": "Milo Urban",
+        "Borrowed": {
+          "FirstName": "",
+          "LastName": "",
+          "From": ""
+        }
+      }
+    ]
+  }
+}
